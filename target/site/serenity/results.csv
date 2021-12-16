@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"El usuario intenta entrar a varios escenarios","El usuario ingresa al navegador","SUCCESS","2021-12-15T08:53:25.736-05:00[America/Bogota]","0.0","39.3"
+"El usuario intenta entrar a varios escenarios","El usuario abre facebook","SUCCESS","2021-12-15T08:53:26.232-05:00[America/Bogota]","0.0","39.51"
